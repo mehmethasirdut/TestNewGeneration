@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Robot ve ScreenShot">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../Selenium/Robot ve ScreenShot" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../Selenium/Robot ve ScreenShot" recursive="false" />
+  </library>
+</component>

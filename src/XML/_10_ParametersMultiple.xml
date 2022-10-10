@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suit 1">
+    <test name="Test 1">
+        <parameter name="message" value="Iste yeni testerlar geliyor..."></parameter>
+        <classes>
+            <class name="TestNewGenerationWorks._11_ContactUs"></class>
+        </classes>
+    </test>
+    <test name="Test 2">
+        <parameter name="message" value="Haftaya Cucumber-parola:Hiç bir şey yükleme"></parameter>
+        <classes>
+            <class name="TestNewGenerationWorks._11_ContactUs"></class>
+        </classes>
+    </test>
+</suite>
